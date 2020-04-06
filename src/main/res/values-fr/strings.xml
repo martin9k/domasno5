@@ -1,0 +1,7 @@
+<resources>
+<string name = "app_name">devoirs4 </string>
+    <string name = "click1"> ajouter un produit </string>
+    <string name = "click2"> supprimer le produit </string>
+    <string name = "click3"> exit </string>
+    <string name = "text1"> recherche </string>
+</resources>

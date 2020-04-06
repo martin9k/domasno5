@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">domasno4</string>
+        <string name="click1">dodadi proizvod</string>
+        <string name="click2">smeni jazik</string>
+        <string name="click3">izlezi</string>
+        <string name="text1">Prebaruvanje</string>
+
+</resources>
